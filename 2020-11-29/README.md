@@ -7,4 +7,4 @@
 ![alt text](https://github.com/hyfung/GPS_Logs/blob/master/2020-11-29/02.jpg "")
 
 ## Mui Wo -> Tung Chung
-![alt text](https://github.com/hyfung/GPS_Logs/blob/master/2020-11-29/03.png "")
+![alt text](https://github.com/hyfung/GPS_Logs/blob/master/2020-11-29/03.jpg "")
